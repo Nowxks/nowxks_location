@@ -60,15 +60,15 @@ local location = {
 	Menu = {
 		["Location"] = {
 			b = {
-                {name = "Louer un Véhicule", ask = "→→→", askX = true},
+                	{name = "Louer un Véhicule", ask = "→→→", askX = true},
 			}
 		},
 
         ["Louer un Véhicule"] = {
 			b = {
-                {name = "Blista", ask = "~g~2000$", askX = true},
-                {name = "Faggio", ask = "~g~1000$", askX = true},
-                {name = "BMX", ask = "~g~500$", askX = true},
+                	{name = "Blista", ask = "~g~2000$", askX = true},
+                	{name = "Faggio", ask = "~g~1000$", askX = true},
+                	{name = "BMX", ask = "~g~500$", askX = true},
 			}
 		}
 	}
