@@ -8,7 +8,6 @@ No help will be provided !
 
 -
 
-
 {FR}
 - Script créé par Nowxks#0069
 - Rejoignez le discord : discord.gg/uu9sGjgKGT
