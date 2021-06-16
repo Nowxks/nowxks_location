@@ -147,6 +147,9 @@ Citizen.CreateThread(function()
     SetEntityInvincible(ped, true)
 end)
 
+print('Created by Nowxks#0069')
+print('Join discord : discord.gg/uu9sGjgKGT')
+
 ------------------------CREATED BY Nowxks#0069---------------------------
 ------------------------CREATED BY Nowxks#0069---------------------------
 ------------------------CREATED BY Nowxks#0069---------------------------
